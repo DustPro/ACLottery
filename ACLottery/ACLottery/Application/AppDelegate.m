@@ -20,7 +20,7 @@
     self.window = [[UIWindow alloc] initWithFrame:[UIScreen mainScreen].bounds];
     self.window.rootViewController = [BaseTabBarViewController tabbar];
     [self.window makeKeyAndVisible];
-    //  修改注释 方--测试提
+    //  修改注释 方--测试提  方
     return YES;
 }
 
